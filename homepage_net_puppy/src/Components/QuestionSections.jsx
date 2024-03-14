@@ -1,8 +1,8 @@
 import React from 'react'
-
+import  "../App.css"
 const QuestionSections = () => {
   return (
-    <div>
+    <div className='questions'>
     <img src='https://s3-alpha-sig.figma.com/img/9bdc/ca4b/4b5601dd8eab0cabe738f612b9d33640?Expires=1711324800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=BgJ9119CEKKzHZTi-lYNRwD6dLjYKYMnOFRFtqQEcn7LVlUVSIH1AFkjOc-fJFV2QDSAGmA-1k2Y~UEyyqJWBjlzYr7ERiXr3FcePAuR4zBVELKvepydY9XQf0QQhVKJDyRaS05E0rrQTtZMd89SioQ-kyXQDIjWmnVPTNYBIeXh8uw7q~pkMUr0L2FqdS9l5nTAWraCK-ZMdzK3XG9J7gwglG5bf9VT6qW5Me1ogd9BHxwDRKwxYHa-v7~CtWFHCy6bSjIWvSh5I5dYkZlud8lRQAyDtldmhXq9KlPq3e5P4K--LoY2k~OPARFPAD0WVH6zVylvM5fteg5j0hReTg__' />
     <ul>
       <li>

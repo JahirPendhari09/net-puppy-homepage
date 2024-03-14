@@ -5,11 +5,11 @@ export  const Header = ()=> {
   return (
     <header className="header">
         <nav>
-            <ul>
+            <ul className='navitem'>
                 <li>INQUIRE</li>
                 <li>APPLY</li>
                 <li>SUPPORT US</li>
-                <div></div>
+                {/* <div></div> */}
                 <li>PARENTS</li>
                 <li>AKUMS</li>
             </ul>
