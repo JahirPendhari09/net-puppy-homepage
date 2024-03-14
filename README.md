@@ -18,6 +18,12 @@ React is a JavaScript library for building Ssamless UI. Its component-based arch
 The application is deployed on Netlify and can be accessed [here](https://net-puppy-homepage.netlify.app/).
 
 
+### Home 
+
+
+![Screenshot (239)](https://github.com/JahirPendhari09/net-puppy-homepage/assets/128920395/1c180d67-8757-41c5-b7eb-918a3c8ae73d)
+
+
 
  # How to Run <br/>
    <h2>Installation</h2>
