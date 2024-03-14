@@ -1,7 +1,5 @@
 # net-puppy-homepage
 
-# Video-Clone
-
 ## Overview
 
 This repository contains the code for a Home Page designed using React  for an assignment given by NetPuppy.
